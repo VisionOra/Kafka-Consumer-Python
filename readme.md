@@ -1,3 +1,7 @@
+
+![main Page](attachments/main_page.jpg)
+
+
 # Kafka Consumers with Python
 This is a simple example of how to use Kafka consumers with Python.
 
@@ -119,7 +123,7 @@ https://medium.com/dev-genius/producing-message-to-kafka-using-cli-6bd22fc51d5c
 
 
 ## Check out the code on GitHub:
-
+https://github.com/SohaibAnwaar/Kafka-Consumer-Python
 
 # Author 
 * Sohaib Anwaar  : https://www.sohaibanwaar.com
